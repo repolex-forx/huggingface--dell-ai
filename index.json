@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "dell-ai",
+  "versions": [
+    {
+      "commit": "eead83fd703ffa70b5c19ebd847b8ade3bf162ca",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:40:11.042927+00:00"
+    }
+  ]
+}
