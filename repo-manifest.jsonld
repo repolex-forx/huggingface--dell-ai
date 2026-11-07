@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/dell-ai/commit/eead83fd703ffa70b5c19ebd847b8ade3bf162ca",
       "git:hexsha": "eead83fd703ffa70b5c19ebd847b8ade3bf162ca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/dell-ai/commit/36e2eae07de964d9fd4bb9e6e8e88ddb690bb00b",
